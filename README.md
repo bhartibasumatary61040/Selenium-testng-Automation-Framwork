@@ -49,4 +49,4 @@ future_enhancements:
   - Add configuration file support
   - Add reports (Extent, Allure)
   - Add data driven tests
-  - Add parallel execution support
+    
