@@ -1,5 +1,5 @@
 #PROJECT OWERVIEW:
-  name: Selenium TestNG Automation Framework
+ project  name: Selenium TestNG Automation Framework
   language: Java
   framework: Selenium WebDriver + TestNG
 
